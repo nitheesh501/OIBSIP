@@ -1,0 +1,36 @@
+.calculator{
+    background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?size=626&ext=jpg");
+    height:100%;
+}
+.main{
+    border: 5px solid;
+    width: 500px;
+    margin: 0px auto;
+    box-shadow: 0px 0px 43px 17px rgb(197, 199, 194);
+    border-radius: 30px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/372/971/non_2x/abstract-flat-solid-colors-aesthetic-background-free-vector.jpg");
+}
+table{
+    width:100%;
+}
+td{
+    width:25%;
+}
+button{
+    width: 100%;
+    background-color: black;
+    font-size: 30px;
+    height: 70px;
+    color:white;
+    border-radius: 30px;
+}
+input{
+    width:100%;
+    height:80px;
+    background-color: grey;
+    color: white;
+    font-size:30px;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: 700;
+}
